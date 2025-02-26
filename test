@@ -1,0 +1,6 @@
+#include<stream>
+
+int main()
+{
+cout <<"sdfghj";
+}
